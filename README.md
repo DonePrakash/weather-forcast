@@ -10,7 +10,9 @@ A simple and clean weather forecast app that shows real-time weather data for an
 - 💻 Responsive design for all devices
 
 ## 🚀 Demo
+
  [![Weather Forecast Screenshot](./Screenshot.png)](https://weather-forcast-citywise.netlify.app)
+ 
 ## 🛠️ Tech Stack
 
 - HTML

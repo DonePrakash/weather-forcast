@@ -11,7 +11,7 @@ A simple and clean weather forecast app that shows real-time weather data for an
 
 ## 🚀 Demo
 
-👉 [Live Demo](https://your-live-link.netlify.app)
+👉 [Live Demo](https://weather-forcast-citywise.netlify.app)
 
 ![Screenshot](./screenshot.png) <!-- Optional: Add a screenshot -->
 

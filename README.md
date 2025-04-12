@@ -13,7 +13,7 @@ A simple and clean weather forecast app that shows real-time weather data for an
 
 👉 [Live Demo](https://weather-forcast-citywise.netlify.app)
 
-[![Weather Forecast Screenshot](./screenshot.png)](https://weather-forcast-citywise.netlify.app)
+[![Weather Forecast Screenshot](./Screenshot.png)](https://weather-forcast-citywise.netlify.app)
 
 ## 🛠️ Tech Stack
 
